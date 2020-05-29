@@ -1,4 +1,4 @@
-# -ADXXXXX-Template
+# AD00009 USB DELEGATER
 
 ## ここに見出し
 
@@ -74,7 +74,7 @@ exp.
 
 ## 作例
 
-[BTO公式]()  
+[BTO公式](https://bit-trade-one.co.jp/ad00009manual/)  
 [Twitter作例1]()  
 [Twitter作例2]()  
 [ブログ作例1]()  
