@@ -49,25 +49,21 @@ exp.
 
 # [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
 
-## [マニュアルはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+## [マニュアルはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/blob/master/Manual/AD00009_Manual.pdf)
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/App)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+## [ファームウェアはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/Firmware)
 
 ## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
 
-### [ライブラリはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/App_source)  
 
-### [サンプルコードはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/Firmware_source)
 
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
+### [外形図](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/Dimensions)
 
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
-
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
+### [回路図](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/blob/master/Schematics/AD00009_schematics.pdf)
 
 ### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
 
@@ -82,8 +78,6 @@ exp.
 
 ## 雑誌掲載情報
 
-[ラズパイマガジンXX年Y月号]()  
-[Pc Watch]()
 
 ## 製品仕様
     【対応OS】Windows7以降
