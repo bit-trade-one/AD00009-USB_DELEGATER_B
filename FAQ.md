@@ -1,4 +1,4 @@
-# ADXXXXX-Template よくある質問
+# AD00009 よくある質問
 
 ## Q.XXXとはなんですか？
 
