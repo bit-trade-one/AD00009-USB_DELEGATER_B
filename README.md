@@ -1,6 +1,6 @@
 # AD00009 USB DELEGATER
 
-## ここに見出し
+## イベントで大活躍！スイッチなどをUSB化する不思議なBOX
 
 ![タイトル画像のURLを右のカッコに](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/03/20037a4c4bb49fae25387f5fb164b07b.png)
 
