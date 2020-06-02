@@ -46,8 +46,6 @@ Windowsの設定ソフトを用いてキーボードやマウス、
 ピン数の変更、特殊センサへの対応等、一品対応などの各種カスタマイズも承ります。  
 詳しくは　[こちら](https://bit-trade-one.co.jp/contactus/)よりお問い合わせ下さい。
 
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
-
 ## [マニュアルはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/blob/master/Manual/AD00009_Manual.pdf)
 
 ## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/App)  
