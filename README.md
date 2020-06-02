@@ -52,7 +52,7 @@ Windowsの設定ソフトを用いてキーボードやマウス、
 
 ## [ファームウェアはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/Firmware)
 
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
+## [Q&A](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/blob/master/FAQ.md)
 
 ### [アプリケーションソースはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/App_source)  
 
