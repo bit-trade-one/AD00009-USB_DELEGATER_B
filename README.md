@@ -64,7 +64,7 @@ Windowsの設定ソフトを用いてキーボードやマウス、
 
 ### [回路図](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/blob/master/Schematics/AD00009_schematics.pdf)
 
-### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
+### [部品表](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/Partslist)
 
 
 ## 作例
