@@ -1,4 +1,5 @@
 # AD00009 USB DELEGATER
+# AD00009B USB DELEGATER B
 
 ## イベントで大活躍！スイッチなどをUSB化する不思議なBOX
 
