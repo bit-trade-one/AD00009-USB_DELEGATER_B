@@ -1,5 +1,5 @@
 # AD00009 USB DELEGATER
-# AD00009B USB DELEGATER B
+#### GitHubサポートページからのファイルダウンロード方法は[こちら](https://bit-trade-one.co.jp/h2gh/)の記事で紹介しています。
 
 ## イベントで大活躍！スイッチなどをUSB化する不思議なBOX
 
